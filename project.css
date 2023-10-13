@@ -1,0 +1,16 @@
+.cuscard img {
+    opacity: 0.9;
+    transition: all 0.5s ease-out;
+}
+
+.cuscard:hover img {
+    opacity: 1;
+}
+
+.cuscard:hover {
+    border: 2px solid rgb(30, 255, 0);
+}
+
+.card-img-overlay {
+    color: white;
+}
